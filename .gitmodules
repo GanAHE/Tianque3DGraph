@@ -1,3 +1,11 @@
 [submodule "OpenSceneGraph"]
 	path = OpenSceneGraph
 	url = https://github.com/openscenegraph/OpenSceneGraph.git
+[submodule "TianqueCode/subModule/OpenSceneGraph"]
+	path = TianqueCode/subModule/OpenSceneGraph
+	url = https://gitee.com/ganahe/OpenSceneGraph.git
+	branch = OpenSceneGraph-3.6
+[submodule "TianqueCode/subModule/osgearth"]
+	path = TianqueCode/subModule/osgearth
+	url = https://gitee.com/ganahe/osgearth.git
+	branch = 3.3
